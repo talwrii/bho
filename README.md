@@ -1,6 +1,6 @@
 # NOTICE - OUT OF DATE
 
-Better helm org is now [orgnav](httsp://github.com/talwrii/orgnav). This repository is no longer developed.
+Better helm org is now [orgnav](https://github.com/talwrii/orgnav). This repository is no longer developed.
 
 # Better helm org
 
