@@ -1,4 +1,8 @@
-# orgnav
+# NOTICE - OUT OF DATE
+
+Better helm org is now [orgnav](httsp://github.com/talwrii/orgnav). This repository is no longer developed.
+
+# Better helm org
 
 Quickly navigate and search your emacs org trees; use this navigation to capture and organize.
 Built with the help of helm.
